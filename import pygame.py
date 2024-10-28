@@ -9,7 +9,7 @@ pygame.display.set_caption("Space Dodge")
  
 BG= pygame.transform.scale(pygame.image.load("dino.jpeg"),(WIDTH,HEIGHT))
 
-PLAYER_WIDTH = 40 
+PLAYER_WIDTH = 41
 PLAYER_HEIGHT = 60
 PLAYER_VEL=5
 STAR_WIDTH= 20
